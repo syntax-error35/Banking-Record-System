@@ -52,12 +52,6 @@ void acc::depo(int x)
     dep+=x;
 }
 
-//void intro()
-//{
-//    cout<<"\n\n\n\tWelcome To AB BANK MANAGEMENT SYSTEM";
-//    cout<<"\nPress Enter To Continue........";
-//    cin.get();
-//}
 
 int main()
 {
