@@ -80,13 +80,13 @@ int main()
             system("cls");
             cout<<"\n\n\tEnter The Account Number : ";
             cin>>num;
-            //dep_withdraw(num, 1);
+            dep_withdraw(num, 1);
             break;
         case '3':
             system("cls");
             cout<<"\n\n\tEnter The Account Number : ";
             cin>>num;
-            //dep_withdraw(num, 2);
+            dep_withdraw(num, 2);
             break;
         }
         cin.ignore();
